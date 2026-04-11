@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-<!--
-**vikasprajapati3/vikasprajapati3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+As a web development student with a strong interest in building modern applications, I am passionate about crafting clean, responsive, and user-friendly web applications. I enjoy turning creative ideas into real-world digital solutions that are both functional and visually appealing. I am continuously expanding my knowledge, refining my coding skills, and working towards becoming a proficient full-stack developer capable of building complete and impactful web experiences
 Here are some ideas to get you started:
-
+<--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
