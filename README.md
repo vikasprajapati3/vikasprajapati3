@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-I Vikas Prajapati,As a web development student with a strong interest in building modern applications, I am passionate about crafting clean, responsive, and user-friendly web applications. I enjoy turning creative ideas into real-world digital solutions that are both functional and visually appealing. I am continuously expanding my knowledge, refining my coding skills, and working towards becoming a proficient full-stack developer capable of building complete and impactful web experiences
-Here are some ideas to get you started:
+Hi, I'm Vikas Prajapati. >
+Full-Stack Development student with a focus on building production-ready web applications. I combine academic theory with hands-on projects to craft clean, responsive, and user-centric digital solutions. I am actively refining my skills in modern frameworks and am dedicated to mastering the full development lifecycle to build impactful web experiences.
 
