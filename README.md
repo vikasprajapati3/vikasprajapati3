@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&width=435&lines=I'm+Vikas+Prajapati+;Web+Dev+Student;Always+Learning..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&width=435&lines=I'm+Vikas+Prajapati" alt="Typing SVG" />
 
 Hi, I'm Vikas Prajapati. >
 Full-Stack Development student with a focus on building production-ready web applications. I combine academic theory with hands-on projects to craft clean, responsive, and user-centric digital solutions. I am actively upgrading my skills in modern frameworks and am dedicated to mastering the full development lifecycle to build impactful web experiences.
