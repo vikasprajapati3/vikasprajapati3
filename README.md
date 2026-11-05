@@ -25,10 +25,10 @@ Hi, I'm Vikas Prajapati, a passionate MERN Stack Developer focused on building m
 
 | | |
 |---|---|
-| 🔭 **Building** | Full-stack MERN apps, such as [DishPix](https://dishpix.vercel.app/) (JWT auth, REST API, MongoDB Atlas) |
-| 🌱 **Learning** | Advanced React patterns, REST API design, authentication and deployment |
-| 🎯 **Goal** | Master the full lifecycle: UI, API, database, deployment |
-| 💼 **Open to** | Internships · Freelance projects · MERN developer roles |
+|  **Building** | Full-stack MERN apps, such as [DishPix](https://dishpix.vercel.app/) (JWT auth, REST API, MongoDB Atlas) |
+|  **Learning** | Advanced React patterns, REST API design, authentication and deployment |
+|  **Goal** | Master the full lifecycle: UI, API, database, deployment |
+|  **Open to** | Internships · Freelance projects · MERN developer roles |
 
 ---
 
